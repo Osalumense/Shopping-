@@ -41,7 +41,7 @@ class Item {
         actions.append(subaction);
         listItem.append(actions);
 
-        list.appendChild(listItem);
+        list.append(listItem);
     }
 }
 
